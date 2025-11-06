@@ -16,7 +16,16 @@
 <img width="524" height="19" alt="chartidy 1" src="https://github.com/user-attachments/assets/bdf85e6e-8ba3-42c1-8650-5e3c76c0631c" />
 
 
+
+
+
+
+
+
 <img width="478" height="25" alt="chaitfy 2" src="https://github.com/user-attachments/assets/ca73ec55-f0de-48e8-a110-c2fc744cb389" />
+
+
+
 
 <img width="645" height="178" alt="php artisan migrate" src="https://github.com/user-attachments/assets/4f2aa893-e503-44fd-9eb0-9143448d29ef" />
 
